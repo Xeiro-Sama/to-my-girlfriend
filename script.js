@@ -6,6 +6,10 @@ window.onload = function() {
 
 document.getElementById('revealButton').addEventListener('click', function() {
     const message = `
+
+
+
+
         I Love You, You’re the Star in My Empty Night Sky
         
         Dalam hening malam yang sepi, ketika bintang-bintang berkilauan di langit yang gelap, aku teringat padamu, sayang. Kau adalah cahaya yang menerangi setiap sudut hatiku, seperti bintang paling terang yang menembus kegelapan. Tanpamu, malam-malamku terasa kosong, seolah langit tak memiliki makna.
